@@ -6,3 +6,5 @@ https://sdcc.sourceforge.net/
 
 libfx2
 https://codeberg.org/GlasgowEmbedded/libfx2
+
+The code modifications are with the help from free tier of AI chatbot like Claude and Gemini.
